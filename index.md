@@ -10,7 +10,7 @@ MyCountry                           xxxxxxxxxxx
 Education
 ---------
 
-2010-2014 (expected)
+2018-2022(expected)
 :   **B.tech, Information technology**; rvr&jc college of engineering
 
     *mini project**
