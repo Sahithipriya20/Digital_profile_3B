@@ -1,20 +1,19 @@
-Johnny Coder
+SahithiPriya Thulluru
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+1 MyAddress                        thulluruspriya@gmail.com
+MyTown 1000                          0620
+MyCountry                           xxxxxxxxxxx
 -------------------     ----------------------------
 
 Education
 ---------
 
 2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+:   **B.tech, Information technology**; rvr&jc college of engineering
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *mini project**
 
 2007-2010
 :   **BSc, Computer Science and Electrical Engineering**; University of
@@ -42,6 +41,10 @@ Also with a short description.
 
 Technical Experience
 --------------------
+programming languages
+* java
+* c
+
 
 My Cool Side Project
 :   For items which don't have a clear time ordering, a definition
@@ -84,7 +87,7 @@ Extra Section, Call it Whatever You Want
 
 * Human Languages:
 
-     * English (native speaker)
+    (native speaker)
      * ???
      * This is what a nested list looks like.
 
